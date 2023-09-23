@@ -1,8 +1,9 @@
 English | [Русский](./Russian.md)
 
-# 👋 Introduction
+# 👋 About
 
-Hey there, my name is Klim. I'm a full stack web-developer from Russia. I'm currently working on Mateline company as a backend developer.
+Hey there, my name is Klim. I'm a full stack web-developer from Russia. 
+I'm currently working on Mateline company as a backend developer.
 **[My CV](https://resume.io/r/4NDzGnXeo)**
 
 ## 🛠 Stack
@@ -15,6 +16,9 @@ Hey there, my name is Klim. I'm a full stack web-developer from Russia. I'm curr
 ## 💌 Contact me
 
 [LinkedIn](https://linkedin.com/) | [Telegram](https://t.me/paparrot) | [Email](mailto:subbotin.klim@gmail.com)
+
+## 📊 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paparrot&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 💼 Projects
 

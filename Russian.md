@@ -1,6 +1,6 @@
 [English](./README.md) | Русский
 
-# 👋 Приветствие
+# 👋 Обо мне
 
 Привет, меня зовут Клим. Я full stack разработчик из России.
 **[Мое резюме](https://hh.ru/resume/651b285bff0bbcc1bd0039ed1f584c68616667)**
@@ -15,6 +15,9 @@
 ## 💌 Контакты
 
 [LinkedIn](https://linkedin.com/) | [Telegram](https://t.me/paparrot) | [Email](mailto:subbotin.klim@gmail.com)
+
+## 📊 Статистика
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paparrot&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=ru)
 
 ## 💼 Проекты
 
