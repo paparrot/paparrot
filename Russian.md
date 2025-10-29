@@ -7,9 +7,9 @@
 
 ## 🛠 Стек
 - Git
-- PHP, Laravel
-- PostgreSQL
-- JavaScript, VueJs
+- PHP, Laravel, LiveWire (v2/v3)
+- PostgreSQL, MySQL
+- JavaScript, Vue.js (v2/v3), Alpine.js
 - Docker
 
 ## 💌 Контакты
@@ -21,24 +21,26 @@
 
 ## 💼 Проекты
 
-1. [Mateline platform](https://mateline.ru)
-    Международная e-commerce платформа, поддерживающая несколько магазинов.
+1. [Scalesta](https://scalesta.com)
+    Международный хостинг провайдер.
+2. [Mateline platform](https://mateline.ru)
+    Международная e-commerce платформа.
     - [Greyshop](https://grey-shop.com/)
     - [Tarkov merch store](https://tarkovmerchstore.com/)
     - [Gajin merch store](https://gaijin.grey-shop.com/)
     - [Gunfun](https://gunfun.ru/)
 
-2. [Unimed](https://unimedgroup.ru)
+3. [Unimed](https://unimedgroup.ru)
 Магазин медицинских товаров.
 
-3. [ATK Teplogaz](https://atkteplogaz.ru)
+4. [ATK Teplogaz](https://atkteplogaz.ru)
 Сайт-портфолио инженерной компании.
 
-4. [Writty](https://writty.paparrot.me) [Пет-проект]
+5. [Writty](https://writty.paparrot.me) [Пет-проект]
 Клон Twitter/Threads. [Github repo](https://github.com/paparrot/writty)
 
 # Хобби
 
 - Чтение 📚
-- Играю в World of Warcraft 👾
+- Путешествия 🧳
 - Программирование 🧑🏼‍💻
