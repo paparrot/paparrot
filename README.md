@@ -3,14 +3,14 @@ English | [Русский](./Russian.md)
 # 👋 About
 
 Hey there, my name is Klim. I'm a full stack web-developer from Russia. 
-I'm currently working on Mateline company as a backend developer.
+I'm currently working on Scalehost company as a backend developer.
 **[My CV](https://resume.io/r/4NDzGnXeo)**
 
 ## 🛠 Stack
 - Git
-- PHP, Laravel
-- PostgreSQL
-- JavaScript, VueJs
+- PHP, Laravel, Livewire (v2/v3)
+- PostgreSQL, MySQL
+- JavaScript, Vue.js (v2/v3), Nuxt, Alpine.js
 - Docker
 
 ## 💌 Contact me
@@ -22,24 +22,27 @@ I'm currently working on Mateline company as a backend developer.
 
 ## 💼 Projects
 
-1. [Mateline platform](https://mateline.ru)
-    International e-commerce platform that works with few stores.
+1. [Scalesta](https://scalesta.com)
+    International hosting provider.
+
+3. [Mateline platform](https://mateline.ru)
+    International e-commerce platform with multiple currencies, stores and languages.
     - [Greyshop](https://grey-shop.com/)
     - [Tarkov merch store](https://tarkovmerchstore.com/)
     - [Gajin merch store](https://gaijin.grey-shop.com/)
     - [Gunfun](https://gunfun.ru/)
 
-2. [Unimed](https://unimedgroup.ru)
+4. [Unimed](https://unimedgroup.ru)
 Medical products e-store.
 
-3. [ATK Teplogaz](https://atkteplogaz.ru)
+5. [ATK Teplogaz](https://atkteplogaz.ru)
 Portfolio website of engeneering company.
 
-4. [Writty](https://writty.paparrot.me) [Pet project]
+6. [Writty](https://writty.paparrot.me) [Pet project]
 Twitter/Threads clone. [Github repo](https://github.com/paparrot/writty)
 
 ## Hobbies
 
 - Reading 📚
-- Playing World of Warcraft 👾
+- Traveling 🧳
 - Coding 🧑🏼‍💻
