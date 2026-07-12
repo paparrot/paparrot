@@ -8,9 +8,13 @@ I follow trends in web development and enjoy programming as a hobby, experimenti
 
 
 📍 Based in Saint Petersburg, Russia (open to relocation: Kazan, Kaliningrad, Krasnodar, Moscow, Nizhny Novgorod)
+
 💼 Currently: Systems Engineer / Fullstack Developer at Scalehost
+
 🌱 Exploring: React, Next.js, Nuxt, Flask, Django, FastAPI, Nest, Gin, Symfony
+
 📫 Preferred contact: subbotin.klim@gmail.com
+
 🌐 English level: B1 (Intermediate)
 
 
